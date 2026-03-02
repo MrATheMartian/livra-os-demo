@@ -1,0 +1,16 @@
+{
+  "name": "livra-stage",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173"
+  },
+  "dependencies": {
+    "three": "^0.160.0",
+    "troika-three-text": "^0.49.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
